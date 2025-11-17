@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Student Practice</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="quiz">Quiz</string>
+    <string name="statistics">Statistics</string>
+    <string name="profile">Profile</string>
+    <string name="subject_label">Subject: %s</string>
+    <string name="max_questions_error">Maximum 1000 questions allowed</string>
+    <string name="invalid_number_error">Please enter a valid number</string>
+    <string name="max_time_per_question_error">Maximum 600 seconds (10 minutes) per question</string>
+    <string name="difficulty_easy_description">Easy: Simple and straightforward questions for beginners</string>
+    <string name="difficulty_medium_description">Medium: Moderately challenging questions with standard concepts</string>
+    <string name="difficulty_hard_description">Hard: Advanced and complex questions requiring deep understanding</string>
+    <string name="total_exam_time">Total Exam Time: %dm %ds</string>
+    <string name="time_per_question">Per Question: %ds</string>
+    <string name="total_questions">Total Questions: %d</string>
+    <string name="enter_topic_error">Please enter a topic</string>
+    <string name="invalid_question_count_error">Please enter 1-1000 questions</string>
+    <string name="invalid_question_count_toast">Please enter a valid number of questions (1-1000)</string>
+    <string name="invalid_time_per_question_error">Please enter 1-600 seconds</string>
+    <string name="invalid_time_per_question_toast">Please enter valid time per question (1-600 seconds)</string>
+    <string name="default_subject">General Knowledge</string>
+</resources>
